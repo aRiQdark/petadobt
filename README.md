@@ -1,16 +1,6 @@
-# flutter_application_1
+APLIKASI ADOPSI HEWAN MENGGUNAKAN FLUTTER
+<img align="left" alt="coding" width="400" src="https://github.com/aRiQdark/Muhammad-Ariq-Pratama/blob/main/WhatsApp%20Image%202023-08-24%20at%2013.16.46.jpg">
 
-A new Flutter project.
 
-## Getting Started
+<h1>Tampilan Beranda ADOBSI HEWAN</h1>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
